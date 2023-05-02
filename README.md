@@ -1,4 +1,5 @@
-# The BFX challenge Solution
+# Distributed Exchange
+An implementation for a simplified distributed exchange using orderbook.
 
 ## Requirement:
 * Code in Javascript
