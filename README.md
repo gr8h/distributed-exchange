@@ -18,3 +18,4 @@ An implementation for a simplified distributed exchange using orderbook.
 * Enhance the matching engine currently it's O(n^2)
 * Add support for multiple assests/pairs
 * TypeScript, Linters ... etc
+* matchOrders() is called after each addOrder() call, this could be separated for better control
